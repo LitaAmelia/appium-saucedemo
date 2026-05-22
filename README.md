@@ -23,7 +23,7 @@ Make sure all of these are installed before setting up the project.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/LitaAmelia/appium-playwright
+git clone https://github.com/LitaAmelia/appium-saucedemo
 ```
 
 ### 2. Create local config file
